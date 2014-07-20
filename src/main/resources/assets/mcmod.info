@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Horticulture",
+  "name": "Horticulture",
+  "description": "Making farming fun.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "RhinoZA"
+  ],
+  "credits": "~",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
